@@ -28,6 +28,12 @@ To install the application, follow these steps:
 2. Open the project in your preferred IDE
 3. Compile and run the application
 
+## Accessing on Command Prompt
+
+1. Navigate to the UnitConverter Project file using dir and cd
+2. open app, src, main, java
+3. run by using java Main.java
+
 ## Contributing
 
 If you would like to contribute to the project with suggestions or how it can be better, feel free to submit a pull request.
