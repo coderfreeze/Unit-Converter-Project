@@ -34,10 +34,3 @@ To install the application, follow these steps:
 2. open app, src, main, java
 3. run by using java Main.java
 
-## Contributing
-
-If you would like to contribute to the project with suggestions or how it can be better, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
